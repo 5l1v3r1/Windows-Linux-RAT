@@ -1,8 +1,8 @@
 
 <img src="packages/windows & Linux RAT.png">
 	
-***RCode samples reside here on GitHub. Get in Touch to order your personalized tool***
-## Telegram: @Hack2Gain
+***Code samples reside here on GitHub. Get in Touch to order your personalized tool***
+### Telegram: @Hack2Gain
  
 ---
 
