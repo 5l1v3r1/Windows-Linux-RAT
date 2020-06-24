@@ -1,7 +1,8 @@
 
 <img src="packages/windows & Linux RAT.png">
 	
-***Remote Administration Tool For Windows & Linux***
+***RCode samples reside here on GitHub. Get in Touch to order your personalized tool***
+## Telegram: @Hack2Gain
  
 ---
 
